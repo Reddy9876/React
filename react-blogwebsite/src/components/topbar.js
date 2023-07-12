@@ -1,5 +1,5 @@
 import React from 'react';
-import{FaLinkedin, FaFacebook, FaInstagram, FaSearch} from "react-icons/fa";
+import{FaLinkedin, FaFacebook, FaInstagram, FaTwitter, FaSearch} from "react-icons/fa";
  import { Link } from "react-router-dom";
  import "../styles/topbar.css";
 
@@ -12,6 +12,7 @@ function Topbar() {
         <FaLinkedin />
         <FaFacebook />
         <FaInstagram />
+        <FaTwitter />
         <FaSearch />
     </div>
     </div>
@@ -42,7 +43,7 @@ function Topbar() {
             )}
             <FaSearch />
         </div>
-        /</div>
+        </div>
   )
 }
 
