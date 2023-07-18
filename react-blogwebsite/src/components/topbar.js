@@ -43,7 +43,7 @@ function Topbar() {
             )}
             <FaSearch />
         </div>
-        </div>
+        /</div>
   )
 }
 

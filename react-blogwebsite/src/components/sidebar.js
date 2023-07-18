@@ -13,7 +13,7 @@ function Sidebar() {
 requirements, collecting data, design/developing Power BI, and Tableau Reports for decision-making. Approach all 
 projects with a winning attitude and passion for providing high-quality products</p>
 
-<div className='sidebarItem'> 
+<div className='sidebarItem'>
     <span className='sidebarTitle'>CATEGORIES</span>
     <ul className='sidebarList'>
         <li className='sidebarListItem'><Link>Life</Link></li>
